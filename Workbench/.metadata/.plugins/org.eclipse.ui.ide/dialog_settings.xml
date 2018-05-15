@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Samuel George\Dropbox\Own\Post-Grad-UNC\Comp533\Assignments\Assignment1\Dependents\CoupledTrickOrTreat"/>
+			<item value="C:\Users\Samuel George\Dropbox\Own\Post-Grad-UNC\Comp533\Assignments\Assignment1\Dependents\beau_project\AndersonBeau COMP401 Final Project"/>
+			<item value="/home/SamuelGeorge/Dropbox/Own/Post-Grad-UNC/Comp533/Assignments/Assignment1/AndersonBeau COMP401 Final Project"/>
+			<item value="/home/SamuelGeorge/Dropbox/Own/Post-Grad-UNC/Comp533/Assignments/Assignment1/CoupledTrickOrTreat"/>
+			<item value="/home/SamuelGeorge/Dropbox/Own/Post-Grad-UNC/Comp533/Assignments/Assignment1/beau_project/AndersonBeau COMP401 Final Project"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="206" key="DIALOG_X_ORIGIN"/>
+		<item value="147" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

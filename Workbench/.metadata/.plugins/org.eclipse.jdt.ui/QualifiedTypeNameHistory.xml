@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="nio.NioServer"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="client.StringClient"/>
+<fullyQualifiedTypeName name="client.AStringClient"/>
+<fullyQualifiedTypeName name="nio.NioClient"/>
+<fullyQualifiedTypeName name="nio.RspHandler"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="nioextend.MultipleEchoWorker"/>
+<fullyQualifiedTypeName name="nioextend.EchoingNioServer"/>
+<fullyQualifiedTypeName name="nioextend.RspHandler"/>
+<fullyQualifiedTypeName name="nioextend.SingleConnectionNioClient"/>
+<fullyQualifiedTypeName name="util.PropertyListenerRegisterer"/>
+<fullyQualifiedTypeName name="util.PropertyListenerSupport"/>
+<fullyQualifiedTypeName name="util.APropertyListenerSupport"/>
+<fullyQualifiedTypeName name="java.beans.PropertyChangeEvent"/>
+<fullyQualifiedTypeName name="java.beans.PropertyChangeListener"/>
+<fullyQualifiedTypeName name="clients.BeauListener"/>
+<fullyQualifiedTypeName name="servers.EchoingServerStarter"/>
+<fullyQualifiedTypeName name="util.trace.Tracer"/>
+<fullyQualifiedTypeName name="nioextend.BroadcastingNioServer"/>
+<fullyQualifiedTypeName name="util.trace.TraceableInfo"/>
+<fullyQualifiedTypeName name="CommandObjects.RemoteOperations"/>
+<fullyQualifiedTypeName name="java.util.concurrent.BlockingQueue"/>
+<fullyQualifiedTypeName name="java.util.concurrent.LinkedBlockingQueue"/>
+</qualifiedTypeNameHistroy>
